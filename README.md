@@ -4,3 +4,4 @@ branch name
 - master : main
 - develop : develop
 - feature : myfeature
+- release : release-1.2

@@ -5,3 +5,4 @@ branch name
 - develop : develop
 - feature : myfeature
 - release : release-1.2
+- hotfix : hotfix-1.2.1
